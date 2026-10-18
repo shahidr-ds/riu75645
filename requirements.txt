@@ -1,0 +1,5 @@
+pandas
+stremlit
+plotly
+openpyxl
+yfinance
